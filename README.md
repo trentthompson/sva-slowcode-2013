@@ -42,6 +42,8 @@ Schedule
 **Week 6**
   - Week 6 moving forward will focus on additional exploration on the web and in real-world scenarios.
 
+**Week 7**
+  - Group up for team projects
 
 Getting started
 ---------------
